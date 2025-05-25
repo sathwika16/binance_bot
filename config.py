@@ -1,0 +1,3 @@
+API_KEY = "37ec6b7402f95efbe5e2a50cc409102a6a4891d5aa7191e117b82560cffa6410"
+API_SECRET = "73a0288ef5943ad45ea48475eba699ba62d06e0dbfa84527c50df42d10213248"
+BASE_URL = "https://testnet.binancefuture.com"
